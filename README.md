@@ -14,7 +14,9 @@ Chạy trên **Windows**, **Linux** và **macOS** (Mac chip Apple và chip Intel
 
 ## Tải về
 
-**[⬇ Trang tải về (Releases)](../../releases/latest)** - chọn đúng file cho máy của bạn:
+**[⬇ Trang tải về (Releases)](https://github.com/Cuongyd196/cit-voice-studio/releases/latest)** - chọn đúng file cho máy của bạn:
+
+> Bản cài đặt do dự án gốc phát hành (app không open-source). Repo này lưu tài liệu và mã tích hợp API.
 
 | Máy của bạn | File tải | Dung lượng |
 |---|---|---|
